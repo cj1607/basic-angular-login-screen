@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-signup-f040a": {
+      "hosting": {
+        "employeereviewapp": [
+          "angular-signup-f040a"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-signup-f040a"
+  }
+}
